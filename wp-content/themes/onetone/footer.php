@@ -34,9 +34,9 @@
         
         <?php
                       if( is_home() || is_front_page()){
-                        printf(__('Designed by <a href="%s">MageeWP Themes</a>.','onetone'),esc_url('https://www.mageewp.com/'));
+                        printf(__('Designed with <span style="color:#f04a3d;font-weight:bold">♥</span> in Easton.','onetone'),esc_url('https://frederickcoleman.net/'));
                       }else{
-						 printf(__('Designed by MageeWP Themes.','onetone')); 
+						 printf(__('Designed with <span style="color:#f04a3d;font-weight:bold">♥</span> in Easton.','onetone')); 
 						  }
 						  ?>
 </div>
