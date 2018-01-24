@@ -16,3 +16,7 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+wp-content/themes/onetone/.DS_Store
+wp-content/.DS_Store
+wp-content/themes/.DS_Store
+.DS_Store
